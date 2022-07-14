@@ -1,6 +1,3 @@
-function alertar(){
-    alert("Obrigada por visitar o site!")
+function alertarUsuário(){
+    alert("Obrigada por acessar o site!")
 }
-    
-
-
